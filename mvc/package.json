@@ -1,0 +1,13 @@
+{
+  "name": "mvc",
+  "version": "0.1.0",
+  "description": "MVC stuff for node",
+  "main": "./lib/index.js",
+  "author": {
+    "name": "Matthew.Vogt",
+    "email": ""
+  },
+  "dependencies": {
+    "lodash": "~2.4.1"
+  }
+}
